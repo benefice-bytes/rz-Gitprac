@@ -7,6 +7,7 @@ namespace rz_Gitprac
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Mangoes");
         }
     }
 }
